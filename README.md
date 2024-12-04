@@ -11,9 +11,9 @@ Our objective with this project is to simplify the tracking and organisation of
 these cash exchanges.
 
 System Workflow
-1:Login
+1:Login:
 Secure access to personal account.
-2:Dashboard
+2:Dashboard:
 Overview of events and budgets.
-3:Add Transaction
+3:Add Transaction:
 Record new Lain-Dain exchanges.
